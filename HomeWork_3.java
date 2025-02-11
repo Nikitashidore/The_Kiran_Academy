@@ -25,7 +25,7 @@ public class HomeWork_3 {
 			result = Num - 4;
 		}
 		System.out.println("The value Input is "   +  Num   + " output Number is -> " + result);
-		sc.close();
+		
 	}
 
 }
